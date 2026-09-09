@@ -1,4 +1,4 @@
 *.css
 .env
 app.js
-password/
+passwords/
