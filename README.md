@@ -1,3 +1,0 @@
-# GitAndGitHub
-# GitAndGitHub
-# GitAndGitHub
